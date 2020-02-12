@@ -7,7 +7,7 @@ main files:
 * thaFancyGameOfSearchingBeads.m - search the beads and helps to setup the recordings
 * GenerateAndRecordCaActBeads.m  - main script, which takes beads centroids collected with "thaFancyGameOfSearchingBeads" and do the needed stuff to excite them with the temporal activity using simple exponentials, or taking some random piece of electrophisiologically recorded data
 
-External repositories included here (not updated):
+External projects used within thi code:
 
 * DMDConnect-master/
  https://github.com/deichrenner/DMDConnect
