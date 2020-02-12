@@ -1,8 +1,10 @@
 # SpeckledNeurons_control
 
-===
-<span style="color:red">**a lot of code still need to be cleaned** text</span>
-===
+---
+
+<span style="color:red">**a lot of code still need to be cleaned**</span>
+
+---
 
 main files:
 * **calibrate_beads_sample.m** - calibrate the bottom camera with the DMD, and create a T.mat file which must be called afterwards since gives the parameters of the affine transformation between the two spaces
