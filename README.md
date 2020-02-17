@@ -19,8 +19,8 @@ External projects used within this code:
 * **MLspike pieces**
 https://github.com/MLspike
 from the paper "Accurate spike estimation from noisy calcium signals for ultrafast three-dimensional imaging of large neuronal populations in vivo." Deneux et al, Nat. Comm.  
-  **brick-master/** 
-  **spikes-master/**
+  **brick-master/**  
+  **spikes-master/**  
 
 * **spikefinder.train**
 datasets from http://spikefinder.codeneuro.org/
