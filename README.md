@@ -1,8 +1,8 @@
-# SpeckledNeurons_control
+# SpeckledNeuronsControl
 
 ---
 
-**a lot of code need to be cleaned and properly commented**
+**asome code still need to be cleaned and properly commented**
 
 ---
 
